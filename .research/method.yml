@@ -1,0 +1,24 @@
+schema_version: '1.0'
+method:
+  id: network-analysis
+  label: Network Analysis
+  repository: LystadJS/method-network-analysis
+  status: planned
+  summary: Statistical and computational analysis of relational structure, communities,
+    diffusion, and network dynamics.
+  family: []
+  aliases:
+  - Network Analysis
+  - network analysis
+  techniques:
+  - community-detection
+  - centrality
+  - network-construction
+  - diffusion-analysis
+  - dynamic-networks
+  related_methods:
+  - unsupervised-learning
+  - longitudinal-multilevel
+  languages:
+  - R
+  - Python
