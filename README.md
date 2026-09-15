@@ -44,7 +44,9 @@ _Link to complementary methodological hubs._
 
 <!-- JSL:AUTO-PROJECTS:START -->
 
-_Project links are generated from registered project manifests._
+| Project | Domain | Method role |
+|---|---|---|
+| [UN Transcript Intelligence and Dynamic Voting Alignment](https://github.com/LystadJS/UN-Transcript-Intelligence-Dynamic-Voting-Alignment) | — | Secondary |
 
 <!-- JSL:AUTO-PROJECTS:END -->
 
